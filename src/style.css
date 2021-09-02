@@ -1,0 +1,48 @@
+ol {
+  list-style-type: none;
+  padding: 0;
+  border: solid 1px gray;
+  width: 30vw;
+}
+
+h1 {
+  margin-left: 60px;
+}
+
+h2 {
+  margin: 0;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 20px 0;
+  width: 20vw;
+}
+
+.refresh {
+  margin-left: 30px;
+}
+
+.submit {
+  width: 10vw;
+}
+
+.content {
+  display: flex;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.score-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.score-head {
+  display: flex;
+  justify-content: space-between;
+}

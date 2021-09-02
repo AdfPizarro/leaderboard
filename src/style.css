@@ -1,33 +1,33 @@
 ol {
   list-style-type: none;
-  padding:0;
+  padding: 0;
   border: solid 1px gray;
   width: 30vw;
 }
 
-h1{
+h1 {
   margin-left: 60px;
 }
 
-h2{
+h2 {
   margin: 0;
 }
 
-.form{
+.form {
   display: flex;
   flex-direction: column;
 }
 
 input {
   margin: 20px 0;
-width: 20vw;
+  width: 20vw;
 }
 
-.refresh{
+.refresh {
   margin-left: 30px;
 }
 
-.submit{
+.submit {
   width: 10vw;
 }
 
@@ -37,12 +37,12 @@ width: 20vw;
   justify-content: space-around;
 }
 
-.score-content{
+.score-content {
   display: flex;
   flex-direction: column;
 }
 
-.score-head{
+.score-head {
   display: flex;
   justify-content: space-between;
 }
